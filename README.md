@@ -21,7 +21,7 @@ Hello! I'm Gorkem Akinci, a passionate and enthusiastic junior developer special
 - Spanish: Beginner
 
 ### 👩‍💻 Projects:
-- **Simple Calculator:** A simple calculator application to perform arithmetical operations. [Repo](https://github.com/gorkemakinci/simple-calculator) 
+- **Simple Calculator:** A simple calculator application to perform arithmetical operations. [Repo](https://github.com/AkinciGorkem/simple-calculator) 
 
 ### 📚 Education:
 - Associate's Degree in Computer Science, University Istanbul University-Cerrahpasa, 2021 - 2023
