@@ -23,6 +23,7 @@ Hello! I'm Gorkem Akinci, a passionate and enthusiastic junior developer special
 ### 👩‍💻 Projects:
 - **Simple Calculator:** A simple calculator application to perform arithmetical operations. [Repo](https://github.com/AkinciGorkem/simple-calculator)
 - **Simple MP3 Player:** A simple mp3 player application to manage songs. [Repo](https://github.com/AkinciGorkem/simple-mp3-player)
+- **Minesweeper Game:** A simple implementation of the classic my super game. [Repo](https://github.com/AkinciGorkem/Minesweeper)
 
 ### 📚 Education:
 - Associate's Degree in Computer Science, University Istanbul University-Cerrahpasa, 2021 - 2023
