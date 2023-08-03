@@ -10,7 +10,7 @@ Hello! I'm Gorkem Akinci, a passionate and enthusiastic junior developer special
 - LinkedIn: [Gorkem Akinci](https://www.linkedin.com/in/akincigorkem/)
 
 ### 🛠 Technical Skills:
-- Languages: C#, HTML, CSS, JavaScript, Python , C++ , Java , 
+- Languages: C#, HTML, CSS, JavaScript, Python , C++ , Java 
 - Frameworks: .NET, ASP.NET, .NET Core, Entity Framework, React, Django, Qt (C++), Android Development (Java)
 - Tools: Visual Studio, Git, GitHub
 - Databases: Microsoft SQL Server, MySQL, SQLite
