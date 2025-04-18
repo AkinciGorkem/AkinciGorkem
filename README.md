@@ -1,49 +1,59 @@
-# Gorkem Akinci 👨‍💻
+# GÖRKEM AKINCI
 
-## Aspiring Full Stack Developer
+<div align="center">
 
-Hello! I'm Gorkem Akinci, an ambitious developer venturing into the world of full-stack development. With a solid foundation in C#, I'm expanding my horizons by diving deep into frontend and backend technologies to build robust and user-friendly web applications.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=435&lines=C%2FC%23%2FC%2B%2B+Developer;Python+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
----
+```
+Software Developer | Management Information Systems Student
+```
 
-### 🌐 Let's Connect
-[![Email Badge](https://img.shields.io/badge/-Email-1A1B27?style=flat-square&labelColor=1A1B27&logo=protonmail&logoColor=white&link=mailto:g.akinci@protonmail.com)](mailto:g.akinci@protonmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1A1B27?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/akincigorkem/)](https://www.linkedin.com/in/akincigorkem/)
+</div>
 
----
 
-### 🛠 Skills & Technologies
-- **Languages:** C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, C++, Java
-- **Frameworks/Libraries:** .NET, ASP.NET, .NET Core, Entity Framework, React, Next.js, Angular, Django, Qt (C++), Android Development (Java), Bootstrap
-- **Tools:** Visual Studio, Git, GitHub
-- **Databases:** Microsoft SQL Server, MySQL, SQLite
+## TECHNICAL SKILLS
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+        <br>C
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+        <br>C#
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+        <br>C++
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+        <br>Python
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+        <br>R
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+        <br>Java
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🌎 Languages I Speak
-- 🇹🇷 Turkish: Native
-- 🇬🇧 English: Fluent
-- 🇪🇸 Spanish: Beginner
+<h2 align="center">MY CONTRIBUTIONS</h2>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkinciGorkem/AkinciGorkem/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
-### 👩‍💻 Projects
-- **Simple Calculator:** A calculator application to perform arithmetical operations. [Repo](https://github.com/AkinciGorkem/simple-calculator)
-- **Simple MP3 Player:** An mp3 player application to manage and play songs. [Repo](https://github.com/AkinciGorkem/simple-mp3-player)
-- **Minesweeper Game:** An implementation of the classic minesweeper game. [Repo](https://github.com/AkinciGorkem/Minesweeper)
-- **Tic Tac Toe Game:** The classic Tic Tac Toe game. [Repo](https://github.com/AkinciGorkem/TicTacToe)
+<h2 align="center">GITHUB STATS</h2>
 
----
-
-### 📚 Education
-- 🎓 Associate's Degree in Computer Science, Istanbul University-Cerrahpasa, 2021 - 2023
-
----
-
-### 🚀 Goals for 2023
-- 🌍 Contribute to Open Source projects
-- 🛠 Sharpen my full-stack development skills and embrace new technologies
-
----
-
-⭐️ From [Gorkem Akinci](https://github.com/AkinciGorkem)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinciGorkem&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
